@@ -7,3 +7,14 @@ html {
     background-color: #5e5959; /* Tu color deseado */
   }
   
+  h3{
+    color: green;
+  }
+
+  .blue{
+    color: blue ;
+  }
+
+  #red{
+    color: red;
+  }
